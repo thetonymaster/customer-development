@@ -37,3 +37,9 @@ This is more aimed to enterprise customers which may need a more accurate presen
 of the product and maybe some help integrating it into their process.
 
 ## Pricing
+| Accounts        | Tools           | Development Enviroment   | Dashboard       | Support         | New Tools       | EA              | Monthly Price (USD)|
+| :-------------: | :-------------: | :----------------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------:    |
+| Trial           |        1        |            ✓             |        x        |         x       |         x       | N/A             | Free               |
+| 1-5             |        ✓        |            ✓             |        ✓        |         x       |         x       | +3 New Tools Ask!| 29                |
+| 6-15            |        ✓        |            ✓             |        ✓        |         ✓       |         1       | +3 New Tools Ask!| 79                |
+| 16-30           |        ✓        |            ✓             |        ✓        |         ✓       |         5       | +3 New Tools Ask!| 149               |
