@@ -36,6 +36,14 @@ best practices can bring traffic to our landing page and possibly some conversio
 This is more aimed to enterprise customers which may need a more accurate presentation
 of the product and maybe some help integrating it into their process.
 
+### Broker Software
+
+Model akin to simpler SaaS products and transactional sales for a partituclar customer segment, bundling stacks or different solutions or packages, for example different packages according to the number of accounts that the customer is allowed to have.
+
+### Application Developer Model
+
+The vendor bills the customer directly, selling a customized product and providing support when necessary, this is a direct chanel to the customer because the application is being sold directly to the customer. For instance making a new tool that the customer requires.
+
 ## Pricing
 | Accounts        | Tools           | Development Enviroment   | Dashboard       | Support         | New Tools       | EA              | Monthly Price (USD)|
 | :-------------: | :-------------: | :----------------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------:    |
