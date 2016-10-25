@@ -33,8 +33,8 @@ This product will bring a big impact in the customer development process, to be 
 
 | Stage One       | Comment                                    | Release Date  |
 | :-------------- | :----------------------------------------- | :-------------|
-| Alpha 1         | Creation of the lo-fi MVP                  | 7-10 Sep 2016 |
-| Alpha 2         | First recipes based on real customers      | October       |
+| Alpha 1         | Creation of the lo-fi MVP                  | 25-October-16 |
+| Alpha 2         | First recipes based on real customers      | November      |
 
 
 ## Total Cost of Ownership/Adoption
