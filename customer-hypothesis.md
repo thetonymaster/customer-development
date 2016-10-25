@@ -36,16 +36,16 @@ The types of customers identified so far:
 
 A daily life in an agency the flow of development is the following:
 
-1. If a new developer is integrated to a team, the developer either installs all 
+1. If a new developer is integrated to a team, the developer either installs all
     the needed dependencies in his own computer based on what the team is using
     or use a file that specifies versions (like bundler, mix or npm).
-2. Developers code and runs the unit testing locally, after this it may execute it 
+2. Developers code and runs the unit testing locally, after this it may execute it
     and test if it really works. It is pushed to a repository which may have continuous
     integration.
 3. This is an optional step, since not every agency actually does this. The application
     is shipped to QA to provide some Quality Assurance
-4. Features are then shipped to operations, which may start a new server instance 
-    or have one already running (this instance could have started ages ago, which 
+4. Features are then shipped to operations, which may start a new server instance
+    or have one already running (this instance could have started ages ago, which
     can be prone to errors due to obscure configurations).
 5. During outages there is not a simple way to replicate a previous provisioned environment
     and they do not have a defined process to follow to analyze it.
@@ -54,6 +54,19 @@ A daily life in an agency the flow of development is the following:
 
 ## ROI (return on investment) justification
 
+| Yearly Downtime Cost                | 1853000 | Yearly Cost (suptscription:)   |           |
+| :----------------------------------:| :-----: | :----------------------------: | :-------------: |
+| Weekly salary (developer)           | 6500    | 1-5 accounts                   |  6448,44        |
+| Adaptions costs (one week training):|         | 6-12 accounts                  |  17566,44       |         
+| 5 developers                        | 32500   | 16-30 accounts                 |  33131,64       |
+| 15 developers                       | 97500   | Payback:                        |        
+| 30 developers                       | 195000  | 1-5 Accounts (1st month)        |  121379,3        |
+| Savings per year:                   |         | 6-15 Accounts (1st month)       |  348183,56       |
+| 5 developers                        |1814051,56| 16-30 Accounts (1st month)     |  698368,36       |
+| 15 developers                       |5443933,56|
+| 30 developers                       |10889868,36|
+
+All amounts are calculated in MXN. Due to the lack of information in Mexico about the yearly downtime cost, it was used the cost calculated in USA, this need to be revised and recalculated. For the savings per year it was estimated that it was necessary an aproximate of 5 developers by project (the downtime cost is estimated per proyect too), that is why the savings in 15 developers and 30 developers the quantity is greater, in 15 developers it is calculated for 3 proyects while in 30 for 6.
 ## Minimum feature set
 
 - Unified configuration
