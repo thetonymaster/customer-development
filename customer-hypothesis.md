@@ -34,6 +34,22 @@ The types of customers identified so far:
 
 ## A day in the life of your customers
 
+A daily life in an agency the flow of development is the following:
+
+1. If a new developer is integrated to a team, the developer either installs all 
+    the needed dependencies in his own computer based on what the team is using
+    or use a file that specifies versions (like bundler, mix or npm).
+2. Developers code and runs the unit testing locally, after this it may execute it 
+    and test if it really works. It is pushed to a repository which may have continuous
+    integration.
+3. This is an optional step, since not every agency actually does this. The application
+    is shipped to QA to provide some Quality Assurance
+4. Features are then shipped to operations, which may start a new server instance 
+    or have one already running (this instance could have started ages ago, which 
+    can be prone to errors due to obscure configurations).
+5. During outages there is not a simple way to replicate a previous provisioned environment
+    and they do not have a defined process to follow to analyze it.
+
 ## Organizational map and customer influence map
 
 ## ROI (return on investment) justification
