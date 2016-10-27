@@ -40,8 +40,19 @@ It is needed to show how does the palataform works.
 
 ### Events
 
+We are going to look for early adopters at events, to talk to them directly.
+
 #### Meetups
 
+- Startup Grind Guadalajara
+- Guadalajara Startup: Idea to IPO
+- Meetup para Emprendedores Guadalajara
+
+
 #### Entrepreneurship events
+
+- IncMTY (17-19 Nov)
+- Switch Mty (5-6 Dec)
+- Semana del emprendedor (2017)
 
 ## Influencers
