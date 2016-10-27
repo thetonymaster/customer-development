@@ -28,9 +28,15 @@ We have devloped a profile of target audience, wich the ads are targeted to:
 
 ### Website
 
+It shows the benefits of the product and shows with the help of mockups how the product works.
+
 #### Promotional Video
 
+In less than 60 seconds it must be understood what Tinkerwares does and for whom it is done.
+
 #### Workflow mockups
+
+It is needed to show how does the palataform works.
 
 ### Events
 
