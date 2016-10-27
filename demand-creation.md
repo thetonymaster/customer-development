@@ -24,6 +24,8 @@ We have devloped a profile of target audience, wich the ads are targeted to:
 
 ### Partners
 
+- Nubity: provide  monitoring for physical and private servers.
+
 ### Website
 
 #### Promotional Video
