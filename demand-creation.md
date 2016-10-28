@@ -21,7 +21,7 @@ These key words were selected because trough a google search a potential client 
 We have devloped a profile of target audience, wich the ads are targeted to:
 
 - [Juan Perez's profile](https://app.xtensio.com/folio/sd0osqkv)
-
+- [Franco de la Gorgoña's profile](https://app.xtensio.com/folio/j609bmew)
 ### Partners
 
 - Nubity: provide  monitoring for physical and private servers.
