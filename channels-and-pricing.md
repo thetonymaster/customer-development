@@ -66,6 +66,6 @@ It not only refers to attending events but creating them too. Events are a great
 | Accounts        | Tools           | Development Enviroment   | Dashboard       | Support         | New Tools       | EA              | Monthly Price (USD)|
 | :-------------: | :-------------: | :----------------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------:    |
 | Trial           |        1        |            ✓             |        x        |         x       |         x       | N/A             | Free               |
-| 1-5             |        ✓        |            ✓             |        ✓        |         x       |         x       | +3 New Tools Ask!| 29                |
-| 6-15            |        ✓        |            ✓             |        ✓        |         ✓       |         1       | +3 New Tools Ask!| 79                |
-| 16-30           |        ✓        |            ✓             |        ✓        |         ✓       |         5       | +3 New Tools Ask!| 149               |
+| 1-5             |        ✓        |            ✓             |        ✓        |         x       |         x       | +3 New Tools Ask!| 59                |
+| 6-15            |        ✓        |            ✓             |        ✓        |         ✓       |         1       | +3 New Tools Ask!| 159               |
+| 16-30           |        ✓        |            ✓             |        ✓        |         ✓       |         5       | +3 New Tools Ask!| 299               |
