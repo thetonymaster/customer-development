@@ -12,12 +12,22 @@
 
 ## Product Benefits
 
-- Less downtime due to human errors while manipulating servers
-- Portability of infrastructure across multiple cloud providers
-- Different modules can be used to upgrade the existing infrastructure without much hassle
-- Easy integration between different environments to ship new features
-- Integrations with CI’s services (?) to be sure the build wild run
-- Configuration tailored on real use cases
+    1. Start with development faster
+        * Create projects within minutes with the tools of your needs.
+    2. Replicate projects in minutes:
+        * Locally(virtuallized)
+        * In-house
+        * In the cloud(VPS)
+    3. Improve your projects
+        * Add new tools instantly.
+        * Add changes, test them and apply them.
+    4. Manage easily your projects.
+        * Improve, replicate and create your preojjects from the interface.
+    5. Colaborate with your team.
+        * Notifications on changes.
+        * Download full projects and go directly to development.
+        * Track the state of deploys in different stages.
+        * Visualize your infrastructure and services. 
 
 ## Intellectual property
 
