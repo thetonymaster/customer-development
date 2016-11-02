@@ -52,3 +52,4 @@ an edge over existing products.
 ![DevOps Adoption Up in 2015](http://www.rightscale.com/blog/sites/default/files/Cloud%20Computing%20Trends%20DevOps%20Adoption%202015.png)
 ![Respondents Using DevOps Tools](http://www.rightscale.com/blog/sites/default/files/Cloud%20Computing%20Trends%20DevOps%20Tools%20Use%202015.png)
 ![Private Cloud Usage 2015 vs. 2014](http://www.rightscale.com/blog/sites/default/files/Cloud%20Computing%20Trends%20Private%20Cloud%20Usage%20YOY%202014%20vs%202015.png)
+![Public Cloud Usage](http://www.rightscale.com/blog/sites/default/files/Cloud%20Computing%20Trends%20Public%20Cloud%20Usage%202015.png)
