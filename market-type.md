@@ -42,3 +42,13 @@ an edge over existing products.
 | 51 to 100           |     44    |
 | 101 to 250          |     31    |
 | 251 or more         |     37    |
+
+## State of the Cloud
+
+![Enterprise Cloud Strategy](http://www.rightscale.com/blog/sites/default/files/Cloud%20Computing%20Trends%20Enterprise%20Cloud%20Strategy_0.png)
+![93% of Respondents Are Using Clouds](http://www.rightscale.com/blog/sites/default/files/Cloud%20Computing%20Trends%20Who%20Is%20Using%20Cloud.png)
+![Number of VMs Enterprises Are Runing in Public Cloud](http://www.rightscale.com/blog/sites/default/files/Cloud%20Computing%20Trends%20Number%20of%20VMs%20Enterprises%20Are%20Running%20In%20Public%20Cloud_0.png)
+![Number of VMs Enterprises are Runing in Private Cloud](http://www.rightscale.com/blog/sites/default/files/Cloud%20Computing%20Trends%20Number%20of%20VMs%20Enterprises%20Are%20Running%20In%20Private%20Cloud.png)
+![DevOps Adoption Up in 2015](http://www.rightscale.com/blog/sites/default/files/Cloud%20Computing%20Trends%20DevOps%20Adoption%202015.png)
+![Respondents Using DevOps Tools](http://www.rightscale.com/blog/sites/default/files/Cloud%20Computing%20Trends%20DevOps%20Tools%20Use%202015.png)
+![Private Cloud Usage 2015 vs. 2014](http://www.rightscale.com/blog/sites/default/files/Cloud%20Computing%20Trends%20Private%20Cloud%20Usage%20YOY%202014%20vs%202015.png)
