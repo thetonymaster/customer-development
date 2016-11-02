@@ -31,6 +31,8 @@ reaching our local market.
 The Latin American region is beginning to adopt the cloud based services, which may give us
 an edge over existing products.
 
+## Employees and Companies in Mexico
+
 | Number of employees | Companies |
 |---------------------|-----------|
 | 0 to 5              |    1632   |
