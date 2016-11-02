@@ -30,3 +30,13 @@ reaching our local market.
 
 The Latin American region is beginning to adopt the cloud based services, which may give us
 an edge over existing products.
+
+| Number of employees | Companies |
+|---------------------|-----------|
+| 0 to 5              |    1632   |
+| 6 to 10             |    713    |
+| 11 to 30            |    653    |
+| 31 to 50            |    207    |
+| 51 to 100           |     44    |
+| 101 to 250          |     31    |
+| 251 or more         |     37    |
