@@ -18,3 +18,13 @@ A new market is defined like follows: when there are not similar products to the
 one you are offering, an you can't find other companies with comparable products.
 Locally we could be aproaching anew market because companies of our sort are not yet
 reaching our local market.
+
+| Number of employees | Companies |
+|---------------------|-----------|
+| 0 to 5              |    1632   |
+| 6 to 10             |    713    |
+| 11 to 30            |    653    |
+| 31 to 50            |    207    |
+| 51 to 100           |     44    |
+| 101 to 250          |     31    |
+| 251 or more         |     37    |
