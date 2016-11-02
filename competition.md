@@ -9,7 +9,7 @@
 
 ### Features
 - Access built-in monitoring with CPU utilization, request count, and average latency.
-- E-mail notifications when application health changes 
+- E-mail notifications when application health changes
 - Access log server files without accessing the servers
 - Several databases and storage options
 - Enable HTTPS on the load balancer
@@ -31,5 +31,20 @@
   - Extend apps with Add-ons
   - Customize thier appplication slack with Buildpacks
   - Three fully-managed data service provided.
+
+### Why we are different?
+
+## Opsolutely
+### Claims
+  - Transparent server management with one-click deploys
+  - Control infraestructure with ease
+  - Understand infraestructure easily
+  - Deploy codes with the click of a button
+  - Deploy collaboratively
+  - Simplify Onboarding
+
+### Features
+  - Integrates with services like GitHub and Docker
+  - Administer infraestructure visually
 
 ### Why we are different?
