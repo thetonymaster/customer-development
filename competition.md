@@ -1,5 +1,6 @@
 # Competition
 
+<<<<<<< HEAD
 ## AWS Elastic Beanstalk
 ### Claims
 - Easy to use
@@ -15,5 +16,21 @@
 - Enable HTTPS on the load balancer
 - Adjust application settings (e.g. JVM settings) and environment variables
 - Auto scaling
+
+### Why we are different?
+
+## Heroku
+### Claims
+  - Integrates the most popular tools
+  - Easy deployment
+  - Easy to set up databases
+  - Operational expertise in databases
+
+### Features
+  - Deploys code in several languages
+  - Continious delivery enviroment
+  - Extend apps with Add-ons
+  - Customize thier appplication slack with Buildpacks
+  - Three fully-managed data service provided.
 
 ### Why we are different?
