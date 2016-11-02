@@ -60,14 +60,15 @@
 ## Opsolutely
 ### Claims
   - Transparent server management with one-click deploys
-  - Control infraestructure with ease
-  - Understand infraestructure easily
+  - Control infrastructure with ease
+  - Understand infrastructure easily
   - Deploy codes with the click of a button
   - Deploy collaboratively
   - Simplify Onboarding
 
 ### Features
   - Integrates with services like GitHub and Docker
-  - Administer infraestructure visually
+  - Administer infraetructure visually
 
 ### Why we are different?
+  - Focuses solely on deployment
