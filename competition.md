@@ -17,6 +17,25 @@
 - Auto scaling
 
 ### Why we are different?
+- This does not solves the difference between environments
+- Limited to some languages
+- It's bound to one vps provider
+
+## AWS Lambda
+
+### Claims 
+- Lamba takes care of provisioning with your code
+- High availability infrastructure
+- Easy to use with Elastic Beanstalk
+
+### Features
+- Automatic scaling
+- Automatic provisioning
+- Supports Node.js, Java and Python.
+
+### Why we are different
+- Bound to one provider
+- It can be expensive
 
 ## Heroku
 ### Claims
@@ -27,9 +46,13 @@
 
 ### Features
   - Deploys code in several languages
-  - Continious delivery enviroment
+  - Continuous delivery environment
   - Extend apps with Add-ons
-  - Customize thier appplication slack with Buildpacks
+  - Customize their application slack with Buildpacks
   - Three fully-managed data service provided.
 
 ### Why we are different?
+- Depends on the buildpacks available
+- Limited to their own hosting
+- Obscure billing
+- Might or might not work depending how much it differs from your local configuration
