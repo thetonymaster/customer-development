@@ -1,6 +1,5 @@
 # Competition
 
-<<<<<<< HEAD
 ## AWS Elastic Beanstalk
 ### Claims
 - Easy to use
