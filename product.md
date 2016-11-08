@@ -2,9 +2,25 @@
 
 ## Product Features
 
-- As a developer I want to quickly visualize the status of my projects so that 
+- As a developer I want to visualize easily the status of my projects so that 
     I can focus my attention where is more needed.
+- As a developer I want to easily integrate changes between environments so I have less errors.
+- As a developer I want to create test environments so others can verify my work.
+- As a developer I want to notify others when my changes are ready to test so the team can proceed rapidly.
+- As a developer I want to replicate the configuration of other environments to identify and fix errors.
+- As a developer I want to visualize the status of my services to react accordingly to each situation.
+- As a tester I want to notify the status of a set of changes to my coworkers.
 - As a project leader I want to create a project easily so that I can start to work quickly
+- As a project I want to know the lead time between sets of changes to improve my process.
+- As a project leader I want to deploy code to different environments with a set of rules, to test and
+  integrate changes.
+- As a project leader I want to change existing configuration or add more services to change it 
+  according to my needs
+- As a project leader I want to integrate my new team members fastly so I spend more time on other activities. 
+- As a project leader I want to deliver changes constantly to test them an react more quickly.
+- As a project manager I want to add more people to an existing project so I can give him permissions over it.
+- As a project manager I want to quickly integrate people on a project so that they have less lead time integrating on the team.
+- As a project manager I want to send changes faster to my customer to react to its needs.
 
 ## Product Benefits
 
