@@ -2,28 +2,24 @@
 
 ## Product Features
 
-- Idempotent deployments across environments
-- Continuous delivery
-- Easy server configuration
-- Unified configuration across environments
-- Easy creation of environments
-- Dashboard to monitor different services
-- Collaboration between team members
+- As a developer I want to quickly visualize the status of my projects so that 
+    I can focus my attention where is more needed.
+- As a project leader I want to create a project easily so that I can start to work quickly
 
 ## Product Benefits
 
     1. Start with development faster
         * Create projects within minutes with the tools of your needs.
     2. Replicate projects in minutes:
-        * Locally(virtuallized)
+        * Locally(virtualized)
         * In-house
         * In the cloud(VPS)
     3. Improve your projects
         * Add new tools instantly.
         * Add changes, test them and apply them.
     4. Manage easily your projects.
-        * Improve, replicate and create your preojjects from the interface.
-    5. Colaborate with your team.
+        * Improve, replicate and create your projects from the interface.
+    5. Collaborate with your team.
         * Notifications on changes.
         * Download full projects and go directly to development.
         * Track the state of deploys in different stages.
