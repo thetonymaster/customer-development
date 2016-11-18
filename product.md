@@ -53,10 +53,24 @@ This product will bring a big impact in the customer development process, to be 
 
 ## Product Delivery Schedule
 
-| Stage One       | Comment                                    | Release Date  |
-| :-------------- | :----------------------------------------- | :-------------|
-| Alpha 1         | Creation of the lo-fi MVP                  | 25-October-16 |
-| Alpha 2         | First recipes based on real customers      | November      |
+| Stage           | Comment                                       | Release Date   |
+| :-------------- | :-------------------------------------------- | :------------- |
+| Alpha 1         | Create servers and provision them             | 25-October-16  |
+| Alpha 2         | First recipes based on real customers         | December       |
+| Alpha 3         | Create local environments                     | January 2017   |
+| Alpha 4         | Create and track another environments         | February 2017  |
+| Alpha 5         | Add other providers                           | March 2017     |
+| Alpha 6         | Basic monitoring                              | April 2017     |
+| Alpha 7         | Visualize status of services                  | May 2017       |
+| Alpha 8         | Project user management                       | June 2017      |
+| Alpha 9         | Continuous Integration integrations           | July 2017      |
+| Beta 1          | Hooks for deploys                             | August 2017    |
+| Beta 2          | Start to add modules (i.e. security, testing) | September 2017 |
+| Beta 3          | Collaborative integrations (slack)            | October 2017   | 
+| Beta 4          | User permissions fine tuning                  | November 2017  |
+| Beta 5          | Rules for destroying servers                  | December 2017  |
+| Beta 6          | Permissions for servers (create, destroy)     | January 2018   |
+
 
 
 ## Total Cost of Ownership/Adoption
