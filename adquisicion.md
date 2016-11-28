@@ -10,9 +10,9 @@
 - Social Networks
   - Posts
   - Links, RT's, <3, etc.
-  - Engagements
+  - Engagement
 
-## Tactics
+### Tactics
 
 - SEO
   - Landing Page:
@@ -31,15 +31,55 @@
 
   - Public Relations
     - Engagement
-      - Post content regularly to get reteweets and likes.
+      - Post content regularly to get retweets and likes.
       - Promote your own product.
       - Grow an audience
 
   - PPC
-      - Adds
+      - Ads
         - Advertise or page on related sites.
         - Advertise on topics related to customer's interests.
         - Put adds on pages related to the customer's pains.
         - Clone competitors campaigns.
-      - Social Networks Adds:
+      - Social Networks Ads:
         - Based on demographics and interests.
+        
+## Agencies
+
+- Events
+  - Fairs: stands, talking to possible clients
+  - Meetups: conferences, talking to possible clients
+- Online searches for solutions
+  - SE: Landing page, blog, off pages.
+- Social Networks
+  - Posts
+  - Links, RT's, <3, etc.
+  - Engagements
+
+### Tactics
+
+  - SEO
+    - Landing Page:
+      - 1 minute video + sign up
+      - Sign up button
+      - Brief description + sign up button
+      
+  - Blogposts
+    - Create blogposts related to how to improve intern process with devops.
+    - Posts about how to improve your development workflow.
+    
+  - Public Relations (Low priority, probably only on weekends)
+    - Engagement
+        - Post content regularly to get retweets and likes.
+        - Promote your own product.
+        - Grow an audience
+
+  - PPC
+    - Ads
+      - Advertise or page on related sites.
+      - Advertise on topics related to customer's interests.
+      - Put ads on pages related to the customer's pains.
+      - Clone competitors campaigns.
+    - Social Networks Ads:
+      - Based on demographics and interests.
+
