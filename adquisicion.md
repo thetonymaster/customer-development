@@ -1,6 +1,6 @@
 # Audiences
 
-## Entrepeneurs
+## Entrepreneurs
 
 - Events
   - Fairs: stands, talking to possible clients
@@ -18,20 +18,20 @@
   - Landing Page:
     - 1 minute video + sign up
     - Sign up button
-    - Brief description + sign un button
+    - Brief description + sign up button
 
   - Off Pages
     - Match tool names in the URL.
-    - Creat pages for popular tools and explaing how will they work in Tinkerware.
+    - Create pages for popular tools and explaining how will they work in Tinkerware.
 
   - Blogposts
     - Create blogposts related to lean startup and how we can help them with this tools.
-    - Blogposts about how to configurate stuff.
+    - Blogposts about how to configure stuff.
     - Posts about how to improve your development workflow.
 
   - Public Relations
     - Engagement
-      - Post content regularly to get retweets and likes.
+      - Post content regularly to get reteweets and likes.
       - Promote your own product.
       - Grow an audience
 
@@ -40,6 +40,6 @@
         - Advertise or page on related sites.
         - Advertise on topics related to customer's interests.
         - Put adds on pages related to the customer's pains.
-        - Clone competitors camapigns.
+        - Clone competitors campaigns.
       - Social Networks Adds:
-        - Based on demographics and intests.
+        - Based on demographics and interests.
