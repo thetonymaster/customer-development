@@ -105,3 +105,51 @@
   - Social Networks Ads:
     - Based on demographics and interests.
 
+## IT Leaders
+
+- Events
+  - Fairs: stands, talking to possible clients
+  - Meetups: conferences, talking to possible clients
+- Online searches for solutions
+  - SE: Landing page, blog, off pages.
+- Social Networks
+  - Posts
+  - Links, RT's, <3, etc.
+  - Engagements
+- Direct
+
+### Tactics
+
+- SEO
+  - Landing Page:
+    - 1 minute video + sign up
+    - Sign up button
+    - Brief description + sign up button
+    
+- Blogposts
+  - Create blogposts related to how to improve intern process with devops.
+  - Posts about how to improve your development workflow.
+  - Post about different technologies and their use.
+  
+- Public Relations (Low priority, probably only on weekends)
+  - Influencers
+    - Offer the product to people who can influence the buying process so they write about it. 
+  - Engagement
+      - Post content regularly to get retweets and likes.
+      - Promote your own product.
+      - Grow an audience
+
+- PPC
+  - Ads
+    - Advertise or page on related sites.
+    - Advertise on topics related to customer's interests.
+    - Put ads on pages related to the customer's pains.
+    - Clone competitors campaigns.
+  - Social Networks Ads:
+    - Based on demographics and interests.
+ - Direct
+    - Visits
+    - Calls
+ 
+
+
