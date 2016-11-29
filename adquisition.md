@@ -35,14 +35,14 @@
       - Promote your own product.
       - Grow an audience
 
-  - PPC
-      - Ads
-        - Advertise or page on related sites.
-        - Advertise on topics related to customer's interests.
-        - Put adds on pages related to the customer's pains.
-        - Clone competitors campaigns.
-      - Social Networks Ads:
-        - Based on demographics and interests.
+- PPC
+  - Ads
+    - Advertise or page on related sites.
+    - Advertise on topics related to customer's interests.
+    - Put adds on pages related to the customer's pains.
+    - Clone competitors campaigns.
+  - Social Networks Ads:
+    - Based on demographics and interests.
         
 ## Agencies
 
@@ -177,8 +177,8 @@
     - Write articles and seminars for Non-Technical people
     
 - Public Relations (Low priority, probably only on weekends)
-- Influencers
-  - Offer the product to people who can influence the buying process so they write about it. 
+    - Influencers
+    - Offer the product to people who can influence the buying process so they write about it. 
   
 - Engagement
     - Post content regularly to get retweets and likes.
@@ -196,3 +196,47 @@
     - Direct
       - Visits
       - Calls
+      
+## Developers
+
+- Events
+  - Fairs: stands, talking to possible clients
+  - Meetups: conferences, talking to possible clients
+- Online searches for solutions
+  - SE: Landing page, blog, off pages.
+- Social Networks
+  - Posts
+  - Links, RT's, <3, etc.
+  - Engagements
+  
+  
+### Tactics
+
+- SEO
+    - Landing Page:
+      - 1 minute video + sign up
+      - Sign up button
+      - Brief description + sign up button
+      - Off pages with useful information about frameworks and tools
+      
+  - Blogposts
+      - Write posts about frameworks and tools
+      - Write articles and seminars about automation
+      
+- Public Relations
+  - Influencers
+    - Offer the product to people who can influence the buying process so they write about it. 
+    
+ - Engagement
+   - Post content regularly to get retweets and likes.
+   - Promote your own product.
+   - Grow an audience
+
+ - PPC
+    - Ads
+        - Advertise or page on related sites.
+        - Advertise on topics related to customer's interests.
+        - Put ads on pages related to the customer's pains.
+        - Clone competitors campaigns.
+    - Social Networks Ads:
+        - Based on demographics and interests.
